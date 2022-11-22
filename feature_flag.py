@@ -11,7 +11,8 @@ class FeatureFlag:
 
 
 def load_flag(name):
-    ...
+    raise NotImplemented
+
 
 
 def flag(name):
