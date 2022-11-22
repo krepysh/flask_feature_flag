@@ -1,1 +1,1 @@
-from feature_flag import flag
+from .feature_flag import flag
